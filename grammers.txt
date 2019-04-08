@@ -1,0 +1,38 @@
+/*
+p03.java
+E->TE1
+ * E1->+TE1|EP
+ * T->FT1
+ * T1->*FT1|EP
+ * F->id-|(E)
+ * 
+ */
+/*
+p04&05
+C->AB
+A->a
+B->a * 
+ */
+/*
+6&7
+S->L=R|R
+L->*R|ID
+R->L 
+ */
+8
+/*N->l.l
+L->LB|B
+B->0/1
+ */
+9
+/*L->E
+E->E+T|T
+T->T*F|F
+F->(E)|id
+ */
+10
+/*S->L=E
+L->id|E1]
+E->L|(E)|E+E
+E1->id[E|E1,E 
+ */
